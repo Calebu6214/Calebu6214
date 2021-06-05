@@ -1,0 +1,36 @@
+html, body {
+    margin: 9px;
+    padding: 0;
+    background-color: tomato;
+    border-style: solid;
+    border-color: rgb(0, 0, 255);
+  }
+  
+  
+  h1 {
+    font: italic bold 2em 'Open Sans', serif;
+  }
+  
+  img {
+    height: 200px;
+    width: 400px;
+  }
+  
+  p {
+    font-size: 30px;
+    font-style: italic;
+    font-family: fantasy;
+    
+  }
+  h3{ background-color: green;
+margin-right: 600px;
+text-decoration: underline;
+  }
+h5{ background-color: honeydew;
+margin-right: 600px;
+font-size: larger;
+text-decoration: underline overline;}
+h4{background-color: yellow;
+margin-right: 600px;
+text-decoration: underline;}
+h6{font-size: large;}
